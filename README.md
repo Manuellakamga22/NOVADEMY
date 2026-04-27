@@ -1,0 +1,5 @@
+"## Branches" 
+"- main : production" 
+"- develop : integration" 
+"- staging : pre-production" 
+"- test : tests" 
